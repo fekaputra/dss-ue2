@@ -4,7 +4,7 @@ Submission by Jacob Palecek (01526624)
 ## About this program
 This tool can be used to perform analyses on excel sheets to explain how values are created
 It does so by parsing an excel sheet into an RDF ontology. As soon as this is done certain queries can be run against the excel file
-
+  
 ## Building
 Assuming all the dependencies are installed the program can simply be compiled and run via maven.
 The preferred way is to do so over docker however. from the root of the project simply run this command to build:
